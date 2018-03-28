@@ -1,0 +1,17 @@
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    flex-flow: row | nowrap;
+    justify-content: space-evenly;
+    background-color: ghostwhite;
+}
+.container img {
+    width: 100%;
+    height: 550px;
+}
+.bottom-nav i {
+    display: block;
+}
